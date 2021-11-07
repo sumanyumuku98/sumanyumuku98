@@ -2,6 +2,7 @@
 
 I am Sumanyu. I am a first year Masters student at NYU studying computer science. 
 
+#### How to Reach Me:
 
 <!--
 **sumanyumuku98/sumanyumuku98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
