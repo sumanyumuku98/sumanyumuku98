@@ -4,8 +4,8 @@ I am Sumanyu. I am a first year Masters student at NYU studying computer science
 
 ### About Me:
 - Doing ML research at NYU Langone Health
-- Occasionaly compete on Kaggle
-- Currenly learning about Curriculum Learning
+- Occasionaly competing on Kaggle
+- Currently studying about Curriculum Learning
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -24,6 +24,9 @@ I am Sumanyu. I am a first year Masters student at NYU studying computer science
 <br>
 
 ### 📫 How to reach me:
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Sumanyu on LinkedIn" title="Follow Sumanyu on LinkedIn"/>](https://www.linkedin.com/in/sumanyu-muku-723a791a5/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Sumanyu on Twitter" title="Follow Sumanyu on Twitter"/>](https://twitter.com/MukuSumanyu)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Sumanyu on Instagram" title="Follow Sumanyu on Instagram"/>](https://www.instagram.com/mukusumanyu/)
 <!--
 **sumanyumuku98/sumanyumuku98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
