@@ -3,7 +3,7 @@
 I am Sumanyu. I am a first year Masters student at NYU studying computer science. 
 
 ### About Me:
-- Doing ML research at NYU Langone Health
+- Doing ML research at NYU CILVR
 - Occasionally competing on Kaggle
 - Currently studying about Curriculum Learning
 
