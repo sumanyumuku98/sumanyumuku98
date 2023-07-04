@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am Sumanyu. I am a first year Masters student at NYU studying computer science. 
+I am Sumanyu. I graduated with a MS in Computer Science from NYU in 2023. Currently, I am working as a SWE, ML at Causely.
 
 ### About Me:
-- Doing ML research at NYU CILVR
+- Dabbling in Causal ML
 - Occasionally competing on Kaggle
-- Currently studying about Curriculum Learning
+- Crushing 1RM every-other week
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
