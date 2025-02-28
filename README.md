@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sumanyu. I graduated with a MS in Computer Science from NYU in 2023. Currently, I am working as a SWE, ML at Causely.
+I am Sumanyu. I graduated with a MS in Computer Science from NYU in 2023. Currently, I am working as a MLE at Amira Learning.
 
 ### About Me:
 - Dabbling in Causal ML
